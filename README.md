@@ -163,9 +163,17 @@ Current coursework includes **Computer Programming for Engineering, Calculus I, 
 
 Training focused on modern full stack development, covering front-end, back-end and AI-assisted software development.
 
-## Certification
+## Certifications
 
-- **Claude Academy: Claude 101 — Anthropic** — 2026
+All issued by **Anthropic** through **Claude Academy** in **August 2026**.
+
+| Certification | Credential ID |
+|---|---|
+| **Claude 101** | `12b2742b14a00a7349a6a74340bcd968` |
+| **AI Fluency: Framework & Foundations** | `f3960a3c6bd558c37861c2c8fc0286c6` |
+| **AI Capabilities and Limitations** | `0e6cdffbb706554c332bc309f591ca79` |
+| **Claude Code 101** | `66fb73940865a129a99dc0d83319a410` |
+| **Introduction to Claude Cowork** | `299a05412770578f5e040c2a86c59212` |
 
 ## Technical roadmap
 
